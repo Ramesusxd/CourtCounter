@@ -34,7 +34,7 @@
                     android:gravity="center_horizontal"
                     android:padding="4dp"
                     android:text="@string/teamAS"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     android:textSize="14sp" />
 
                 <TextView
@@ -47,7 +47,7 @@
                     android:gravity="center_horizontal"
                     android:padding="0dp"
                     android:text="@string/teams0"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     android:textSize="46sp" />
 
                 <TextView
@@ -55,7 +55,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center_horizontal"
                     android:text="@string/teamT"
-                    android:theme="@style/WhiteText" />
+                    style="@style/WhiteText" />
 
                 <TextView
                     android:id="@+id/team_a_timeout"
@@ -67,7 +67,7 @@
                     android:gravity="center_horizontal"
                     android:padding="4dp"
                     android:text="@string/teams0"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     android:textSize="15sp" />
 
                 <TextView
@@ -75,7 +75,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center_horizontal"
                     android:text="@string/teamF"
-                    android:theme="@style/WhiteText" />
+                    style="@style/WhiteText" />
 
                 <TextView
                     android:id="@+id/team_a_foul"
@@ -87,7 +87,7 @@
                     android:gravity="center_horizontal"
                     android:padding="4dp"
                     android:text="@string/teams0"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     android:textSize="15sp" />
 
                 <Button
@@ -98,7 +98,7 @@
                     android:layout_marginRight="24dp"
                     android:onClick="addThreeForTeamA"
                     android:text="@string/points3"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     />
 
 
@@ -110,7 +110,7 @@
                     android:layout_marginRight="24dp"
                     android:onClick="addTwoForTeamA"
                     android:text="@string/points2"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     />
 
                 <Button
@@ -121,7 +121,7 @@
                     android:layout_marginRight="24dp"
                     android:onClick="addOneForTeamA"
                     android:text="@string/points1"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     />
 
 
@@ -132,7 +132,7 @@
                     android:layout_marginLeft="24dp"
                     android:layout_marginRight="24dp"
                     android:onClick="timeOutForTeamA"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     android:text="@string/teamT" />
 
                 <Button
@@ -143,7 +143,7 @@
                     android:layout_marginRight="24dp"
                     android:onClick="foulForTeamA"
                     android:text="@string/teamF"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     />
 
 
@@ -166,7 +166,7 @@
                     android:gravity="center_horizontal"
                     android:padding="4dp"
                     android:text="@string/teamBS"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     android:textSize="14sp" />
 
                 <TextView
@@ -179,7 +179,7 @@
                     android:gravity="center_horizontal"
                     android:padding="0dp"
                     android:text="@string/teams0"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     android:textSize="46sp" />
 
                 <TextView
@@ -187,7 +187,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center_horizontal"
                     android:text="@string/teamT"
-                    android:theme="@style/WhiteText" />
+                    style="@style/WhiteText" />
 
                 <TextView
                     android:id="@+id/team_b_timeout"
@@ -199,7 +199,7 @@
                     android:gravity="center_horizontal"
                     android:padding="4dp"
                     android:text="@string/teams0"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     android:textSize="15sp" />
 
                 <TextView
@@ -207,7 +207,7 @@
                     android:layout_height="wrap_content"
                     android:gravity="center_horizontal"
                     android:text="@string/teamF"
-                    android:theme="@style/WhiteText" />
+                    style="@style/WhiteText" />
 
                 <TextView
                     android:id="@+id/team_b_foul"
@@ -219,7 +219,7 @@
                     android:gravity="center_horizontal"
                     android:padding="4dp"
                     android:text="@string/teams0"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     android:textSize="15sp" />
 
                 <Button
@@ -231,7 +231,7 @@
                     android:layout_marginRight="24dp"
                     android:onClick="addThreeForTeamB"
                     android:text="@string/points3"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
 
                     />
 
@@ -243,7 +243,7 @@
                     android:layout_marginRight="24dp"
                     android:onClick="addTwoForTeamB"
                     android:text="@string/points2"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     />
 
                 <Button
@@ -254,7 +254,7 @@
                     android:layout_marginRight="24dp"
                     android:onClick="addOneForTeamB"
                     android:text="@string/points1"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     />
 
 
@@ -266,7 +266,7 @@
                     android:layout_marginRight="24dp"
                     android:onClick="TimeOutsForTeamB"
                     android:text="@string/teamT"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     />
 
                 <Button
@@ -277,7 +277,7 @@
                     android:layout_marginRight="24dp"
                     android:onClick="FoulForTeamB"
                     android:text="@string/teamF"
-                    android:theme="@style/WhiteText"
+                    style="@style/WhiteText"
                     />
 
             </LinearLayout>
@@ -292,7 +292,7 @@
             android:layout_centerHorizontal="true"
             android:onClick="resetScore"
             android:text="@string/Rwipe"
-            android:theme="@style/WhiteText"
+            style="@style/WhiteText"
             />
 
     </RelativeLayout>
