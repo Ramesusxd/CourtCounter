@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BASKETBALL SCORE KEEPER</string>
+    <string name="teamAS">Home Score</string>
+    <string name="teamBS">Away Score</string>
+    <string name="teams0">0</string>
+    <string name="teamT">Timeouts</string>
+    <string name="teamF">Fouls</string>
+    <string name="points3">+3 Points</string>
+    <string name="points2">+2 Points</string>
+    <string name="points1">FREE THROW</string>
+    <string name="Rwipe">Reset</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#29B6F6</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#FF9100</item>
+        <!-- -->
+        <item name="colorAccent">#FF9100</item>
+        <!-- changes color of the very most top bar like were you battery life and time is -->
+        <item name="colorPrimaryDark">#FF9100</item>
+
+    </style>
+</resources>
